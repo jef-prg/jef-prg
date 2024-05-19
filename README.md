@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jef-prg
-- 👀 I’m interested in Python, Web Development, Data-Scientist
-- 🌱 I’m currently learning Python, Flask, Django, HTML, CSS, Javascript, SQL + learn about all new tecnologies i can add to my stack
-- 💞️ I’m looking to collaborate on projects to improve my knowdoledge with practical tasks
+- 👀 Got interest in Web Development, Data-Scientist
+- 🌱 Currently learning about all new tecnologies i can add to my stack
+- 💞️ Looking to collaborate on projects to improve my knowdoledge with practical tasks
+- 📈 Mastering Python (Flask, Django, SQL) and HTML, CSS, Javascript
 - 📫 How to reach me -> jef.prg@gmail.com
 
 <!---
